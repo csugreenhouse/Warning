@@ -4,3 +4,5 @@
 
 # ignore secrets.json file
 secrets.json
+
+*.pyc
